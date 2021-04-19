@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá! Eu sou a Sarah!
 
-<!--
-**sarahsoaressilva/sarahsoaressilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Amante de tecnologia, ciências (física + química) e jogos antigos. Também gosto de explorar a área de design e segurança da informação.
 
-Here are some ideas to get you started:
+## ⭐ Atualmente estou estudando ⭐
+ - Front-End (HTML + CSS + JS)
+ - Desenvolvimento Android
+ - Segurança da Informação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Conhecimentos em Programação⭐
+ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> 
+ 
+## ⭐ Conhecimentos em Design⭐
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg"> 
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-soares-gs/)](https://www.linkedin.com/in/sarah-soares-gs/) 
+
+
