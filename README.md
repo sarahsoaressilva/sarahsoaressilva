@@ -1,6 +1,6 @@
 # Olá! Eu sou a Sarah!
 
-Amante de tecnologia, ciências (física + química) e jogos antigos. Também gosto de explorar a área de design e segurança da informação.
+Amante de tecnologia, ciências (física + química) e jogos antigos. Também gosto de explorar a área de design e segurança da informação. Curiosa e pronta para aprender novas coisas.
 
 
 
