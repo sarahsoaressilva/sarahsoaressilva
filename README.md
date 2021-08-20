@@ -10,7 +10,7 @@ Amante de tecnologia, ciências (física + química) e jogos antigos. Também go
 ## Atualmente estou estudando
  - Desenvolvimento Fullstack;
  - Segurança da Informação;
- - Python | Java;
+ - Python e Java.
 
 ## Já cheguei a praticar 👀
 - Front-end (HTML + CSS + Javascript, Bootstrap e Own Caroulsel);
