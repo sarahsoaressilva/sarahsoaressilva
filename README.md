@@ -13,7 +13,7 @@ Amante de tecnologia, ciências (física + química) e jogos antigos. Também go
  - Python e Java.
 
 ## Já cheguei a praticar 👀
-- Front-end (HTML + CSS + Javascript, Bootstrap e Own Caroulsel);
+- Front-end (HTML + CSS + Javascript, Bootstrap e Own Carousel);
 - Typescript;
 - Desenvolvimento Salesforce;
 - Linguagem C.
