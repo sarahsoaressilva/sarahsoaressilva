@@ -8,11 +8,15 @@ Amante de tecnologia, ciências (física + química) e jogos antigos. Também go
 
 
 ## Atualmente estou estudando
- - Front-End (HTML + CSS + JS);
- - Typescript;
- - React;
- - Python | C | Java;
- - Desenvolvimento Salesforce.
+ - Desenvolvimento Fullstack;
+ - Segurança da Informação;
+ - Python | Java;
+
+## Já cheguei a praticar 👀
+- Front-end (HTML + CSS + Javascript, Bootstrap e Own Caroulsel);
+- Typescript;
+- Desenvolvimento Salesforce;
+- Linguagem C.
 
 ## Conhecimentos em Linguagens
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> - <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
