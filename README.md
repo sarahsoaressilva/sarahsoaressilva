@@ -8,14 +8,15 @@ Amante de tecnologia, ciências (física + química) e jogos antigos. Também go
 
 
 ## Atualmente estou estudando
- - Desenvolvimento Fullstack;
+ - Engenharia de Dados;
+ - Análise de Dados;
+ - Microsoft Azure;
  - Segurança da Informação;
- - Python e Java.
 
 ## Já cheguei a praticar 👀
 - Front-end (HTML + CSS + Javascript, Bootstrap e Own Carousel);
 - Typescript;
-- Desenvolvimento Salesforce;
+- Desenvolvimento para Salesforce;
 - Linguagem C.
 
 ## Conhecimentos em Linguagens
