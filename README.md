@@ -17,7 +17,10 @@ Amante de tecnologia, ciências (física + química) e jogos antigos. Também go
 - Front-end (HTML + CSS + Javascript, Bootstrap e Own Carousel);
 - Typescript;
 - Desenvolvimento para Salesforce;
-- Linguagem C.
+- Linguagem C;
+- Linguagem Java;
+- Linguagem R;
+- Linguagem Python.
 
 ## Conhecimentos em Linguagens
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> - <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
