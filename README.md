@@ -22,6 +22,12 @@ Amante de tecnologia, ciências (física + química) e jogos antigos. Também go
 - Linguagem R;
 - Linguagem Python.
 
+
+## Meus Projetos Favoritos 💖
+<a href="https://github.com/sarahsoaressilva/Kabum"> Kabum! </a><br>
+<a href="https://github.com/sarahsoaressilva/PetFriday"> PetFriday </a><br>
+<a href="https://github.com/sarahsoaressilva/PlantGrid"> PlantGrid </a><br>
+
 ## Conhecimentos em Linguagens
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> - <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
  
