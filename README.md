@@ -1,7 +1,6 @@
 # Seja bem-vinda (o)!
 
-Amante de tecnologia, ciências (física + química) e jogos antigos. Também gosto de explorar a área de design e segurança da informação. Curiosa e pronta para aprender sobre tudo.
-
+Amante de tecnologia, ciências (física + química), design (edição de video e imagens) e jogos antigos. 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-soares-gs/)](https://www.linkedin.com/in/sarah-soares-gs/) 
@@ -9,9 +8,8 @@ Amante de tecnologia, ciências (física + química) e jogos antigos. Também go
 
 ## Atualmente estou estudando
  - Engenharia de Dados;
- - Análise de Dados;
- - Microsoft Azure;
- - Segurança da Informação;
+ - Ciencia e Análise de Dados;
+ - Microsoft Azure (AZ-900);
 
 ## Já cheguei a praticar 👀
 - Front-end (HTML + CSS + Javascript, Bootstrap e Own Carousel);
