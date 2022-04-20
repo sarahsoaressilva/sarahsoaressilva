@@ -8,8 +8,9 @@ Amante de tecnologia, ciências (física + química), design (edição de video 
 
 ## Atualmente estou estudando
  - Engenharia de Dados;
- - Ciencia e Análise de Dados;
+ - Ciência e Análise de Dados;
  - Microsoft Azure (AZ-900);
+ - Databricks Lakehouse Platform;
 
 ## Já cheguei a praticar 👀
 - Front-end (HTML + CSS + Javascript, Bootstrap e Own Carousel);
