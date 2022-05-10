@@ -29,6 +29,6 @@ Amante de tecnologia, ciências (física + química), design (edição de video 
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg"> 
 
 
-<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsoaressilva&layout=compact)
+<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsoaressilva&layout=compact) 
 
 
