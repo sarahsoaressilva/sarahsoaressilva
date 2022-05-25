@@ -11,6 +11,7 @@ Amante de tecnologia, ciências (física + química), design (edição de video 
  - Engenharia de Dados;
  - Ciência e Análise de Dados;
  - Microsoft Azure (AZ-900);
+ - Google Cloud Platform (Associate Cloud Engineer);
  - Databricks Lakehouse Platform;
 
 ## Já cheguei a praticar 👀
