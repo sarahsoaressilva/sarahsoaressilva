@@ -4,7 +4,7 @@
 🧐 Who am I?
 
  📌 Brazilian, 20 years, she/her 🏳️‍🌈 <br>
- 📌 Graduating at Analysis of Systems 👩‍💻 <br>
+ 📌 Graduating in Analysis of Systems 👩‍💻 <br>
  📌 Studying Design as a Passion 🧰 <br>
  📌  Studying to be a Polyglot 🇧🇷 🇺🇸 🇫🇷 <br>
  
