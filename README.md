@@ -10,7 +10,7 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-soares-gs/)](https://www.linkedin.com/in/sarah-soares-gs/) 
 
-## Focused on
+## Focus on
  - UX/UI Design
  - Front-end 
 
