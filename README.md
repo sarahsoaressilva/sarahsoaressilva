@@ -12,7 +12,8 @@
 
 ## Focus on
  - UX/UI Design
- - Front-end 
+ - Frontend 
+ - Backend
 
 
 ## Already had a look at 👀
