@@ -23,7 +23,7 @@
 - Basics of C, Java, R, PHP, Typescript
 - Intermediate at Python.
 - Data Engineering (Google Cloud Platform, Azure & Databricks Lakehouse Platform)
-- Data Science and Analysis (Python w/ Pandas and Pandora)
+- Data Science and Analysis (Python w/ Pandas and Pandora & Power BI)
 
 ## Skills at Programming
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" />  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" /> - <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" /> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
