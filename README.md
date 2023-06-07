@@ -10,10 +10,10 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-soares-gs/)](https://www.linkedin.com/in/sarah-soares-gs/) 
 
-## Focus on
- - UX/UI Design
+## Studying
  - Frontend 
  - Backend
+ - Python (for Web Development)
 
 
 ## Already had a look at 👀
@@ -22,8 +22,8 @@
 - Salesforce Development
 - Basics of C, Java, R, PHP, Typescript
 - Intermediate at Python.
-- Data Engineering
-- Data Science and Analysis
+- Data Engineering (Google Cloud Platform, Azure & Databricks Lakehouse Platform)
+- Data Science and Analysis (Python w/ Pandas and Pandora)
 
 ## Skills at Programming
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" />  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" /> - <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" /> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
