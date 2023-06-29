@@ -3,7 +3,7 @@
 
 🧐 Who am I?
 
- 📌 Brazilian, 20 years, she/her 🏳️‍🌈 <br>
+ 📌 Brazilian, 21 years, she/her 🏳️‍🌈 <br>
  📌 Graduating in Analysis of Systems 👩‍💻 <br>
  📌 Studying UX Design and Fullstack Development 🧰 <br>
  📌 Studying to be a Polyglot 🇧🇷 🇺🇸 🇫🇷 <br>
