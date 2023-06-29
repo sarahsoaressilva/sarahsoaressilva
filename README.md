@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-soares-gs/)](https://www.linkedin.com/in/sarah-soares-gs/) 
 
 ## Studying
- - Frontend (HTML, CSS, Javascript)
+ - Frontend (HTML, CSS, Javascript, Bootstrap 5)
  - Backend (Python for Web Development)
 
 
@@ -33,6 +33,4 @@
 ## Skills at Design
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" /> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" /> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" /> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
 
-
-<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsoaressilva&layout=compact) 
 
