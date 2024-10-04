@@ -3,9 +3,9 @@
 
 🧐 Who am I?
 
- 📌 Brazilian, 21 years, she/her 🏳️‍🌈 <br>
- 📌 Graduating in Analysis of Systems 👩‍💻 <br>
- 📌 Studying UX Design and Fullstack Development 🧰 <br>
+ 📌 Brazilian, 22 years, she/her 🏳️‍🌈 <br>
+ 📌 Graduated in Analysis of Systems 👩‍💻 <br>
+ 📌 Fullstack Development Jr <br>
  📌 Studying to be a Polyglot 🇧🇷 🇺🇸 🇫🇷 <br>
  
 [![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-soares-gs/)](https://www.linkedin.com/in/sarah-soares-gs/) 
